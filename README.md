@@ -6,7 +6,7 @@ Track a person's height.
 ## Free
 - Height tracking for up to 10 people
 
-## Paid features - $2/yr
+## Paid - $2/yr
 - Height tracking for up to 100 people
 - Age
 - Weight
