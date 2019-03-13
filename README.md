@@ -1,10 +1,13 @@
 # Overview
 Track a person's height.
 
-## Free Features
-- Basic height tracking
+# Features
 
-### Paid features - $2/yr
+## Free
+- Height tracking for up to 10 people
+
+## Paid features - $2/yr
+- Height tracking for up to 100 people
 - Age
 - Weight
 - Catches potential errors, such as a new height entry that is less than a prior entry (by more than a statistically typical variance, i.e., unlikely more than an inch less than the prior
@@ -12,6 +15,8 @@ Track a person's height.
 - Charts!
 - Shared editing permissions with another registered user
 - Invite family and friends to view a person's stats (you control who sees who)
+
+# Legal junk
 
 ## Disclosures I need to get out there
 By default, stats are aggregated for purely informational purposes. For example, displaying median height for a given age. Such publicly displayed information is *never* associated with your personal data, it's always reported entirely anonymously and not sold to a third party. You may opt out at any time.
