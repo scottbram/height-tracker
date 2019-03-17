@@ -7,14 +7,13 @@ Track a person's height.
 - Height tracking for up to 10 people
 
 ## Paid - $2/yr
-- Height tracking for up to 100 people
-- Age
-- Weight
-- Catches potential errors, such as a new height entry that is less than a prior entry (by more than a statistically typical variance, i.e., unlikely more than an inch less than the prior
-- Most warnings can be disabled
+- Height tracking for up to 10 people
+- Track weight per height entry
+- Keep track of age (automatic if birthday is supplied)
 - Charts!
-- Shared editing permissions with another registered user
-- Invite family and friends to view a person's stats (you control who sees who)
+- Shared viewing and editing with other users (with per person permissions)
+- Catches potential issues, such as a new height entry that is less than a prior entry (most warnings can be individually disabled)
+-- Dev note on ^: "by more than a statistically typical variance, i.e., unlikely more than an inch (2-3cm) less than the prior entry"
 
 # Legal junk
 
