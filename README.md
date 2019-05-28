@@ -15,6 +15,13 @@ Track a person's height.
 - Catches potential issues, such as a new height entry that is less than a prior entry (most warnings can be individually disabled)
 -- Dev note on ^: "by more than a statistically typical variance, i.e., unlikely more than an inch (2-3cm) less than the prior entry"
 
+# Development notes
+
+## Design phase
+
+### Wireframing
+- [Public Balsamiq view](https://balsamiq.cloud/sjfdup2/pf9zcda)
+
 # Legal junk
 
 ## Disclosures I need to get out there
